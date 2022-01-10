@@ -1,24 +1,7 @@
-# README
+# Hello World Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first application using RoR a simple Hello World
 
-Things you may want to cover:
+![screenshot](/sceenApp.png)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
